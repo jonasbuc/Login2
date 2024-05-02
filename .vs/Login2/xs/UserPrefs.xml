@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0F1F1647-A66D-4F78-B549-2BBBB8680F11}|http">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Login2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Login2/Pages/Account/Login.cshtml.cs">
+    <Files>
+      <File FileName="Login2/Pages/Account/Login.cshtml" Line="13" Column="18" />
+      <File FileName="Login2/Pages/Account/Login.cshtml.cs" Line="36" Column="75" />
+      <File FileName="Login2/Pages/Shared/_Layout.cshtml" Line="29" Column="95" />
+      <File FileName="Login2/Program.cs" Line="25" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Login2" expanded="True">
+            <Node name="Login2" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Account" expanded="True">
+                  <Node name="Login.cshtml" expanded="True">
+                    <Node name="Login.cshtml.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
